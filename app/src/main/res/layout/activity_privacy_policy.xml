@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar_privacy_policy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toolbar"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/toolbar_privacy_policy"
+        android:layout_margin="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar_privacy_policy">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textView_privacy_policy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_marginBottom="10dp"
+            android:text="Lite Tech Consult. built the following Apps • Status Saver ,
+
+• QR Code Generator and Scanner,
+
+• Ahmad Sulaiman Complete Qur’an
+
+•Trust Remit Webview ,
+
+• Aliyu Jabir Complete Qur’an .
+
+. Social Webview for Facebook and Twitter
+
+This Apps (SERVICES, hereafter) are provided by Lite Tech Consult at no cost and are intended for use as is.
+
+This page is used to inform the visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Services.
+
+If you choose to use our Services, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Services. We will not use or share your information with anyone except as described in this Privacy Policy." />
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

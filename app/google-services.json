@@ -1,0 +1,481 @@
+{
+  "project_info": {
+    "project_number": "189058471",
+    "firebase_url": "https://csbuk-b13a6.firebaseio.com",
+    "project_id": "csbuk-b13a6",
+    "storage_bucket": "csbuk-b13a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:1c66a201ca7dc05f",
+        "android_client_info": {
+          "package_name": "com.example.almustapha.csbuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-r6svsep9dp2q2dbsmjt0bct77r91upsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.almustapha.csbuk",
+            "certificate_hash": "dde10e733a9628ad2ae366cc211a1d404559aa6d"
+          }
+        },
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:f0058eb65df4703a10fa82",
+        "android_client_info": {
+          "package_name": "com.example.mewaruniversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-uitv7gbcamj3233jr4p71sic2rhh1b6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mewaruniversity",
+            "certificate_hash": "0cd7dbb03f34b1319740af853534a79de0fed359"
+          }
+        },
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:382ca0fdce7dafb910fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.advcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:209af3f8d8a0367110fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.ahmadsulaimanquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6598419017179208~9526024398"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:cf173aba4829b71510fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.aliyujabirfullquranoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6598419017179208~9696298798"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:921382442826f5b010fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.aliyujabirquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:716fd935858c1b2c10fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.bukapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6598419017179208~5769220555"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:9f15a731fd97bc4910fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.kustapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:ac2b3e12fcc81d4d10fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.mewarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-pekusm8gsvl5d1j2e9qbf4jefvh9c7gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wakili.mewarapp",
+            "certificate_hash": "65003653c11015f4dae716838b99313bc8dbba6d"
+          }
+        },
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:0550f380e6aab81710fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.mewaruniversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-0fnavtjor7nksk32prs8rbn64o15496f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wakili.mewaruniversity",
+            "certificate_hash": "0cd7dbb03f34b1319740af853534a79de0fed359"
+          }
+        },
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:931a078be9296fc910fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.qr_codescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:c874166e5b675c8410fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.statusaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:52e625bce0f346cd10fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.trustremit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:c6c6acf038e7fc0b10fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.whatsappstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189058471:android:133a3c5b92cd743610fa82",
+        "android_client_info": {
+          "package_name": "com.wakili.whatsappstatusaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMD5cnPrXT7CtTerxswgBq5NCKqlUufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189058471-ot79bq76c7rhevle6eq0cpbv1amr437b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
