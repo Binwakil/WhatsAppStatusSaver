@@ -1,6 +1,6 @@
-# WA-Status-Download
+# Status Saver for Whatsapp Status 
 
-<img src="https://github.com/KishanViramgama/WhatsApp-Status-Download/blob/master/app/src/main/res/drawable/app_demo.gif" height="368px" align="right" style="max-width:100%;">
+
 
 <ul>
   <li>Download your friends and family whatsapp status.</li>
@@ -15,5 +15,3 @@ library update</li>
   <li>Add RTL(Right To Left)</li>
 </ul>
 
-# Donations
-<b>if you like this project and use this project please donation for covid-19</b> <a href="https://www.who.int/" target="_blank" rel="noopener noreferrer">https://www.who.int/</a>
